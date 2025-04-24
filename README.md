@@ -31,8 +31,8 @@ Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
 ## Publications
 - [Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language](https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu) The University of Manchester Library, 2024
-- [A Survey of Text Games for Reinforcement Learning Informed by Natural Language](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00495/112801/A-Survey-of-Text-Games-for-Reinforcement-Learning), 1st Author, Transactions of the Association for Computational Linguistics, 2022.
-- [Applying Reinforcement Learning on Real-World Data with Practical Examples in Python](https://link.springer.com/book/10.1007/978-3-031-79167-3), 1st Author, Springer Nature, 2022.
+- [A Survey of Text Games for Reinforcement Learning Informed by Natural Language](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00495/112801/A-Survey-of-Text-Games-for-Reinforcement-Learning), 1st Author, Transactions of the Association for Computational Linguistics, 2022 (24 citations).
+- [Applying Reinforcement Learning on Real-World Data with Practical Examples in Python](https://link.springer.com/book/10.1007/978-3-031-79167-3), 1st Author, Springer Nature, 2022 (2,927 readers).
 - [Switching Contexts: Transportability Measures for NLP](https://aclanthology.org/2021.iwcs-1.1/), In Proceedings of the 14th International Conference on Computational Semantics (IWCS), Association for Computational Linguistics, 2020.
 
 ## Education 
