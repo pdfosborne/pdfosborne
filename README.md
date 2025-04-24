@@ -1,7 +1,11 @@
 # Dr Philip Osborne
+
 [Medium](https://medium.com/@PhilipOsborne) | [Kaggle](https://www.kaggle.com/osbornep) | [BlueSky](https://bsky.app/profile/philiposborne.bsky.social) | [X](https://x.com/DataOsborne) | [LinkedIn](https://www.linkedin.com/in/philip-osborne-phd-1052a183/)
 
-Guest lecturer at The University of Manchester and The University of Oxford. <br> Winner of two monetary awards from Google (via Kaggle). <br> Winner of the University of Manchester Business School's Commercialisation & Innovation Award.
+
+Expert in applying language agents to reinforcement learning problems.
+
+
 
 ## Projects
 
@@ -15,7 +19,7 @@ Guest lecturer at The University of Manchester and The University of Oxford. <br
 Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
 
-### Publications
+## Publications
 - [Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language](https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu) The University of Manchester Library, 2024
 - [A Survey of Text Games for Reinforcement Learning Informed by Natural Language](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00495/112801/A-Survey-of-Text-Games-for-Reinforcement-Learning), 1st Author, Transactions of the Association for Computational Linguistics, 2022.
 - [Applying Reinforcement Learning on Real-World Data with Practical Examples in Python](https://link.springer.com/book/10.1007/978-3-031-79167-3), 1st Author, Springer Nature, 2022.
