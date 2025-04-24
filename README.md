@@ -5,8 +5,6 @@
 
 Expert in applying language agents to reinforcement learning problems.
 
-
-
 ## Projects
 
 ### elsciRL
@@ -18,7 +16,7 @@ Expert in applying language agents to reinforcement learning problems.
 
 Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
-### Firefox Elevenlabs Interface
+### Firefox Elevenlabs Interface (Experimental)
 [Extension Page](https://addons.mozilla.org/en-US/firefox/addon/elevenlabs-tts-interface/) | [GitHub](https://github.com/pdfosborne/firefox-elevenlabs/blob/main/README.md)
 
 - A simple interface for using ElevenLab's API text-to-speech (TTS)
