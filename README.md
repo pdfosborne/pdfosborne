@@ -18,6 +18,18 @@ Expert in applying language agents to reinforcement learning problems.
 
 Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
+### Firefox Elevenlabs Interface
+[Extension Page](https://addons.mozilla.org/en-US/firefox/addon/elevenlabs-tts-interface/) | [GitHub](https://github.com/pdfosborne/firefox-elevenlabs/blob/main/README.md)
+
+- A simple interface for using ElevenLab's API text-to-speech (TTS)
+- Reads selected text with a single keybinding
+- Designed for personal use to avoid costly alternatives to improve dyslexia challenges
+
+### Eva Plus Theme
+[Theme Page](https://marketplace.visualstudio.com/items?itemName=PhilipOsborne.eva-plus-theme) | [GitHub](https://github.com/pdfosborne/eva-plus-theme)
+
+- A VS Studio Code theme
+- Customised from a mixture of other themes for personal preference and optimised for Python development
 
 ## Publications
 - [Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language](https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu) The University of Manchester Library, 2024
