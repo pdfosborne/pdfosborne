@@ -3,7 +3,7 @@
 [Medium](https://medium.com/@PhilipOsborne) | [Kaggle](https://www.kaggle.com/osbornep) | [BlueSky](https://bsky.app/profile/philiposborne.bsky.social) | [X](https://x.com/DataOsborne) | [LinkedIn](https://www.linkedin.com/in/philip-osborne-phd-1052a183/)
 
 
-Expert in applying language agents to reinforcement learning problems.
+Expert in applying language agents to reinforcement learning problems. Spend more time swapping Linux distros than I should, mechanical keyboard enthusiast and enjoy modding old consoles. 
 
 ## Projects
 
