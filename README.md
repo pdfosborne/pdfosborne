@@ -47,6 +47,6 @@ Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
 #### NOTE - I changed accounts in 2023 and kept projects private to protect IP until Nov 2024 where they were repackaged and published, hence the large gap in commits.
 
-You can see original account [here](https://github.com/osbornep?tab=overview&from=2022-12-01&to=2022-12-31) but projects remain private and so will not show commit history fully.
+You can see my original account [here](https://github.com/osbornep?tab=overview&from=2022-12-01&to=2022-12-31) but projects remain private and so will not show commit history fully.
 
 I am still actively working on re-publishing applications and demonstrations in the updated infrastructure.
