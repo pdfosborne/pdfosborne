@@ -1,16 +1,38 @@
-## Hi there 👋
+# Dr Philip Osborne
+[Medium](https://medium.com/@PhilipOsborne) | [Kaggle](https://www.kaggle.com/osbornep) | [BlueSky](https://bsky.app/profile/philiposborne.bsky.social) | [X](https://x.com/DataOsborne) | [LinkedIn](https://www.linkedin.com/in/philip-osborne-phd-1052a183/)
 
-<!--
-**pdfosborne/pdfosborne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Guest lecturer at The University of Manchester and The University of Oxford. <br> Winner of two monetary awards from Google (via Kaggle). <br> Winner of the University of Manchester Business School's Commercialisation & Innovation Award.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### elsciRL
+[Website](https://elsci.org/) | [GitHub](https://github.com/pdfosborne/elsciRL) | [Wiki](https://github.com/pdfosborne/elsciRL-Wiki) 
+
+- A novel framework that enables non-technical experts to give language instructions to AI agents.
+- Designed from the academic evaluation completed in my doctoral thesis (previously named HELIOS).
+- Framework is patent pending with the US Patent and Trademark Office (18/955718), software published under Apache 2.0 license.
+
+Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
+
+
+### Publications
+- [Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language](https://research.manchester.ac.uk/en/studentTheses/improving-real-world-reinforcement-learning-by-self-completing-hu) The University of Manchester Library, 2024
+- [A Survey of Text Games for Reinforcement Learning Informed by Natural Language](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00495/112801/A-Survey-of-Text-Games-for-Reinforcement-Learning), 1st Author, Transactions of the Association for Computational Linguistics, 2022.
+- [Applying Reinforcement Learning on Real-World Data with Practical Examples in Python](https://link.springer.com/book/10.1007/978-3-031-79167-3), 1st Author, Springer Nature, 2022.
+- [Switching Contexts: Transportability Measures for NLP](https://aclanthology.org/2021.iwcs-1.1/), In Proceedings of the 14th International Conference on Computational Semantics (IWCS), Association for Computational Linguistics, 2020.
+
+## Education 
+- PhD in Artificial Intelligence from The University of Manchester.
+  - Thesis title: Improving Real-World Reinforcement Learning by Self Completing Human Instructions on Rule Defined Language.
+- MSc in Data Science from City, University of London
+  - Thesis title: Constructing a Narrative using Markov Decision Processes applied to Data Visualizations
+- BSc in Mathematics from The University of Reading
+
+
+---
+
+#### NOTE - I changed accounts in 2023 and kept projects private to protect IP until Nov 2024 where they were repackaged and published, hence the large gap in commits.
+
+You can see original account [here](https://github.com/osbornep?tab=overview&from=2022-12-01&to=2022-12-31) but projects remain private and so will not show commit history fully.
+
+I am still actively working on re-publishing applications and demonstrations in the updated infrastructure.
