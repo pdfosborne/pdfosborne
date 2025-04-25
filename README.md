@@ -23,6 +23,13 @@ Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 - Reads selected text with a single keybinding.
 - Designed for personal use to avoid costly alternatives to improve dyslexia challenges.
 
+### DnD AI Recap
+[GitHub](https://github.com/pdfosborne/dnd-video-recap)
+
+- Uses OpenAI's API to transcribe a DnD session to text
+- Each text segment can then be used to create and AI generated image alongisde party based prompts
+- Images are composed into a video with original audio matched to the timing
+
 ### Eva Plus Theme
 [Theme Page](https://marketplace.visualstudio.com/items?itemName=PhilipOsborne.eva-plus-theme) | [GitHub](https://github.com/pdfosborne/eva-plus-theme)
 
