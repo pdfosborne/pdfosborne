@@ -24,7 +24,7 @@ Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 - Designed for personal use to avoid costly alternatives to improve dyslexia challenges.
 
 ### DnD AI Recap
-[GitHub](https://github.com/pdfosborne/dnd-video-recap)
+[Example Output Video](https://streamable.com/b2pfps) | [GitHub](https://github.com/pdfosborne/dnd-video-recap)
 
 - Uses OpenAI's API to transcribe a DnD session to text
 - Each text segment can then be used to create and AI generated image alongisde party based prompts
