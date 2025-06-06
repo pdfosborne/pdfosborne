@@ -16,6 +16,15 @@ Expert in applying language agents to reinforcement learning problems.<br>Spend 
 
 Check out the [elsciRL Demo Video](https://www.youtube.com/watch?v=JbPtl7Sk49Y).
 
+
+### elsciRL Applications
+
+- [GridWorld Classroom](https://github.com/pdfosborne/elsciRL-App-Classroom): A small educational example that creates a mock classroom of students in a grid layout with the objective to help the Teacher recycle paper.
+- [Chess](https://github.com/pdfosborne/elsciRL-App-Chess): Play Chess using Python's default library, limited to first capture to reduce runtime and played against a random opponent with actions filtered by real human player data.
+- [Sailing Simulation](https://github.com/pdfosborne/elsciRL-App-Sailing): A simulation of a sailboat moving up a river against the wind trying to avoid obstacles.
+- [Gym FrozenLake](https://github.com/pdfosborne/elsciRL-App-GymFrozenLake): A small grid based problem to have the agent move to a fixed goal position whilst avoiding traps, see [Gymnasium](https://gymnasium.farama.org/environments/toy_text/frozen_lake/) for more info.
+- [TextWorld Express](https://github.com/pdfosborne/elsciRL-App-TextWorldExpress): A small collection of text games designed to run quickly, see [TextWorldExpress](https://github.com/cognitiveailab/TextWorldExpress) for more info.
+
 ### Firefox Elevenlabs Interface (Experimental)
 [Extension Page](https://addons.mozilla.org/en-US/firefox/addon/elevenlabs-tts-interface/) | [GitHub](https://github.com/pdfosborne/firefox-elevenlabs/blob/main/README.md)
 
