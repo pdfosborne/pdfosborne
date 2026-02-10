@@ -1,6 +1,8 @@
 # Dr Philip Osborne
 
-[Medium](https://medium.com/@PhilipOsborne) | [Kaggle](https://www.kaggle.com/osbornep) | [BlueSky](https://bsky.app/profile/philiposborne.bsky.social) | [X](https://x.com/DataOsborne) | [LinkedIn](https://www.linkedin.com/in/philip-osborne-phd-1052a183/)
+[Google Scholar](https://scholar.google.com/citations?user=DjMXDTMAAAAJ&hl=en)
+
+[Medium](https://medium.com/@PhilipOsborne) | [Kaggle](https://www.kaggle.com/osbornep) | [LinkedIn](https://www.linkedin.com/in/philip-osborne-phd-1052a183/)
 
 
 Expert in applying language agents to reinforcement learning problems.<br>Spend more time swapping Linux distros than I should, mechanical keyboard enthusiast and I enjoy modding old consoles. 
