@@ -9,6 +9,13 @@ Expert in applying language agents to reinforcement learning problems.<br>Spend 
 
 ## Projects
 
+### RL Bridge
+[GitHub](https://github.com/pdfosborne/rlbridge)
+
+- Connects LLMs to reinforcement learning environments
+- An **MCP plugin** compatible with Claude Code, Claude Desktop, LM Studio, Cursor, Windsurf, Codex CLI, and OpenCode, and uniquely automates how LLMs construct RL problems in language.
+- Automates building environments, translating observations, matching goals to sub-goals, and training agents to complete instructions without user supervision.
+
 ### elsciRL
 [Website](https://elsci.org/) | [GitHub](https://github.com/pdfosborne/elsciRL) | [Wiki](https://github.com/pdfosborne/elsciRL-Wiki) 
 
